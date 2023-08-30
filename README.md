@@ -1,7 +1,7 @@
 # Coursera_Python_Project_for_Data_science
 IBM course via Coursera
 
-In this course, Python fundamentals, Python data structures are aplied, and working with data in Python.
+In this course, Python fundamentals, Python data structures are applied, and working with data in Python.
 This course enables modeling a Data Scientist role, and building a dashboard using Python and popular Python libraries using Jupyter notebook.
 
 The course's Learning Objectives:
